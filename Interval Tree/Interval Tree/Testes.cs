@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Diagnostics;
-public class Testes
+public class Tests
 {
     static int a = Directory.GetFiles("../тесты/in").Length + 1;
     public static void test_insert(Tree.Node root)//тесты на добавление

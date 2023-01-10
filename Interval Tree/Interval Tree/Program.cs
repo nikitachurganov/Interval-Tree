@@ -113,15 +113,15 @@ public class Program
                     break;
                 case 8: //тесты на добавление
                     Console.Clear();
-                    Testes.test_insert(root);
+                    Tests.test_insert(root);
                     break;
                 case 9://тесты на перекрытие
                     Console.Clear();
-                    Testes.test_overlapping(root);
+                    Tests.test_overlapping(root);
                     break;
                 case 0://тесты на удаление
                     Console.Clear();
-                    Testes.test_delete(root);
+                    Tests.test_delete(root);
                     break;
             }
         }

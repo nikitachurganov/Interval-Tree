@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nikit\\Desktop\\Interval Tree\\Interval Tree\\Interval Tree.csproj": {}
+    "C:\\Users\\Nikit\\Documents\\GitHub\\Interval-Tree\\Interval Tree\\Interval Tree\\Interval Tree.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nikit\\Desktop\\Interval Tree\\Interval Tree\\Interval Tree.csproj": {
+    "C:\\Users\\Nikit\\Documents\\GitHub\\Interval-Tree\\Interval Tree\\Interval Tree\\Interval Tree.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nikit\\Desktop\\Interval Tree\\Interval Tree\\Interval Tree.csproj",
+        "projectUniqueName": "C:\\Users\\Nikit\\Documents\\GitHub\\Interval-Tree\\Interval Tree\\Interval Tree\\Interval Tree.csproj",
         "projectName": "Interval Tree",
-        "projectPath": "C:\\Users\\Nikit\\Desktop\\Interval Tree\\Interval Tree\\Interval Tree.csproj",
+        "projectPath": "C:\\Users\\Nikit\\Documents\\GitHub\\Interval-Tree\\Interval Tree\\Interval Tree\\Interval Tree.csproj",
         "packagesPath": "C:\\Users\\Nikit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nikit\\Desktop\\Interval Tree\\Interval Tree\\obj\\",
+        "outputPath": "C:\\Users\\Nikit\\Documents\\GitHub\\Interval-Tree\\Interval Tree\\Interval Tree\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
