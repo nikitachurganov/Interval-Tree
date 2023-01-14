@@ -6,6 +6,8 @@ public class Tests
     public static void test_insert(Tree.Node root)//тесты на добавление
     {
         Program.f = 1;
+
+
         while (Program.f != 13)
         {
             FileInfo file_in = new FileInfo($"../тесты/in/{ Program.f }.txt");

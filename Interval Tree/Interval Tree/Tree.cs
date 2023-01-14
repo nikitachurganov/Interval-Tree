@@ -74,6 +74,7 @@ public class Tree
                 root.range.low = 0;
                 root.range.high = 0;
                 root.max = 0;
+                
                 return;
             }
             if (root.left != null || root.right != null)
