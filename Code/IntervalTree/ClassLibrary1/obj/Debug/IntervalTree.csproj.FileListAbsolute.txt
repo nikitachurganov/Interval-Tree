@@ -1,6 +1,0 @@
-C:\Users\nikit\OneDrive\Рабочий стол\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
-C:\Users\nikit\OneDrive\Рабочий стол\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
-C:\Users\nikit\OneDrive\Рабочий стол\ClassLibrary1\ClassLibrary1\obj\Debug\IntervalTree.csproj.AssemblyReference.cache
-C:\Users\nikit\OneDrive\Рабочий стол\ClassLibrary1\ClassLibrary1\obj\Debug\IntervalTree.csproj.CoreCompileInputs.cache
-C:\Users\nikit\OneDrive\Рабочий стол\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
-C:\Users\nikit\OneDrive\Рабочий стол\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
