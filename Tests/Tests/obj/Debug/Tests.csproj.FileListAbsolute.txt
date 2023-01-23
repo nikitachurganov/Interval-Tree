@@ -1,0 +1,15 @@
+C:\Users\Nikit\Desktop\Tests\Tests\Tests\bin\Debug\Tests.dll
+C:\Users\Nikit\Desktop\Tests\Tests\Tests\bin\Debug\Tests.pdb
+C:\Users\Nikit\Desktop\Tests\Tests\Tests\obj\Debug\Tests.csproj.AssemblyReference.cache
+C:\Users\Nikit\Desktop\Tests\Tests\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+C:\Users\Nikit\Desktop\Tests\Tests\Tests\obj\Debug\Tests.dll
+C:\Users\Nikit\Desktop\Tests\Tests\Tests\obj\Debug\Tests.pdb
+C:\Users\Nikit\Desktop\Tests\Tests\bin\Debug\Tests.dll
+C:\Users\Nikit\Desktop\Tests\Tests\bin\Debug\Tests.pdb
+C:\Users\Nikit\Desktop\Tests\Tests\bin\Debug\IntervalTree.dll
+C:\Users\Nikit\Desktop\Tests\Tests\bin\Debug\IntervalTree.pdb
+C:\Users\Nikit\Desktop\Tests\Tests\obj\Debug\Tests.csproj.AssemblyReference.cache
+C:\Users\Nikit\Desktop\Tests\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+C:\Users\Nikit\Desktop\Tests\Tests\obj\Debug\Tests.csproj.CopyComplete
+C:\Users\Nikit\Desktop\Tests\Tests\obj\Debug\Tests.dll
+C:\Users\Nikit\Desktop\Tests\Tests\obj\Debug\Tests.pdb

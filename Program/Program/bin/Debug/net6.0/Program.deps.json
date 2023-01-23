@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Program/1.0.0": {
+        "dependencies": {
+          "IntervalTree": "1.0.0",
+          "Tests": "1.0.0"
+        },
+        "runtime": {
+          "Program.dll": {}
+        }
+      },
+      "IntervalTree/1.0.0": {
+        "runtime": {
+          "IntervalTree.dll": {}
+        }
+      },
+      "Tests/1.0.0": {
+        "dependencies": {
+          "IntervalTree": "1.0.0"
+        },
+        "runtime": {
+          "Tests.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Program/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IntervalTree/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tests/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
