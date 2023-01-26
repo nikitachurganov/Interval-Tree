@@ -1,0 +1,5 @@
+insert 3 delete 0 insert 4
+1 2
+0 4
+9 10
+1 2

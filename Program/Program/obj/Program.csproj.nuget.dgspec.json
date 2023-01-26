@@ -1,0 +1,108 @@
+{
+  "format": 1,
+  "restore": {
+    "H:\\Program\\Program\\Program.csproj": {}
+  },
+  "projects": {
+    "H:\\IntervalTree\\IntervalTree\\IntervalTree.csproj": {
+      "restore": {
+        "projectUniqueName": "H:\\IntervalTree\\IntervalTree\\IntervalTree.csproj",
+        "projectName": "IntervalTree",
+        "projectPath": "H:\\IntervalTree\\IntervalTree\\IntervalTree.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "H:\\Program\\Program\\Program.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\Program\\Program\\Program.csproj",
+        "projectName": "Program",
+        "projectPath": "H:\\Program\\Program\\Program.csproj",
+        "packagesPath": "C:\\Users\\nikit\\.nuget\\packages\\",
+        "outputPath": "H:\\Program\\Program\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nikit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "H:\\IntervalTree\\IntervalTree\\IntervalTree.csproj": {
+                "projectPath": "H:\\IntervalTree\\IntervalTree\\IntervalTree.csproj"
+              },
+              "H:\\Tests\\Tests\\Tests.csproj": {
+                "projectPath": "H:\\Tests\\Tests\\Tests.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\Tests\\Tests\\Tests.csproj": {
+      "restore": {
+        "projectUniqueName": "H:\\Tests\\Tests\\Tests.csproj",
+        "projectName": "Tests",
+        "projectPath": "H:\\Tests\\Tests\\Tests.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "H:\\IntervalTree\\IntervalTree\\IntervalTree.csproj": {
+                "projectPath": "H:\\IntervalTree\\IntervalTree\\IntervalTree.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

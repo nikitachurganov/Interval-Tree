@@ -1,0 +1,5 @@
+insert 2 delete 0 insert 4 search 1 10
+1 2
+0 4
+9 10
+2 2

@@ -1,0 +1,12 @@
+C:\Users\Nikit\Desktop\IntervalTree\IntervalTree\bin\Debug\IntervalTree.dll
+C:\Users\Nikit\Desktop\IntervalTree\IntervalTree\bin\Debug\IntervalTree.pdb
+C:\Users\Nikit\Desktop\IntervalTree\IntervalTree\obj\Debug\IntervalTree.csproj.AssemblyReference.cache
+C:\Users\Nikit\Desktop\IntervalTree\IntervalTree\obj\Debug\IntervalTree.csproj.CoreCompileInputs.cache
+C:\Users\Nikit\Desktop\IntervalTree\IntervalTree\obj\Debug\IntervalTree.dll
+C:\Users\Nikit\Desktop\IntervalTree\IntervalTree\obj\Debug\IntervalTree.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\IntervalTree\IntervalTree\bin\Debug\IntervalTree.dll
+C:\Users\nikit\OneDrive\Рабочий стол\IntervalTree\IntervalTree\bin\Debug\IntervalTree.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\IntervalTree\IntervalTree\obj\Debug\IntervalTree.csproj.AssemblyReference.cache
+C:\Users\nikit\OneDrive\Рабочий стол\IntervalTree\IntervalTree\obj\Debug\IntervalTree.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\IntervalTree\IntervalTree\obj\Debug\IntervalTree.dll
+C:\Users\nikit\OneDrive\Рабочий стол\IntervalTree\IntervalTree\obj\Debug\IntervalTree.pdb

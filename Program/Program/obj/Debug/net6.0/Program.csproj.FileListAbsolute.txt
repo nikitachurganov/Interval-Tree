@@ -1,0 +1,113 @@
+C:\Users\Nikit\Desktop\Tests\Tests\Tests\bin\Debug\Tests.dll
+C:\Users\Nikit\Desktop\Tests\Tests\Tests\bin\Debug\Tests.pdb
+C:\Users\Nikit\Desktop\Tests\Tests\Tests\obj\Debug\Tests.csproj.AssemblyReference.cache
+C:\Users\Nikit\Desktop\Tests\Tests\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+C:\Users\Nikit\Desktop\Tests\Tests\Tests\obj\Debug\Tests.dll
+C:\Users\Nikit\Desktop\Tests\Tests\Tests\obj\Debug\Tests.pdb
+C:\Users\Nikit\Desktop\Tests\Tests\bin\Debug\Tests.dll
+C:\Users\Nikit\Desktop\Tests\Tests\bin\Debug\Tests.pdb
+C:\Users\Nikit\Desktop\Tests\Tests\bin\Debug\IntervalTree.dll
+C:\Users\Nikit\Desktop\Tests\Tests\bin\Debug\IntervalTree.pdb
+C:\Users\Nikit\Desktop\Tests\Tests\obj\Debug\Tests.csproj.AssemblyReference.cache
+C:\Users\Nikit\Desktop\Tests\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+C:\Users\Nikit\Desktop\Tests\Tests\obj\Debug\Tests.csproj.CopyComplete
+C:\Users\Nikit\Desktop\Tests\Tests\obj\Debug\Tests.dll
+C:\Users\Nikit\Desktop\Tests\Tests\obj\Debug\Tests.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\Tests\Tests\bin\Debug\Tests.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\Tests\Tests\bin\Debug\IntervalTree.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Tests\Tests\bin\Debug\IntervalTree.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\Tests\Tests\obj\Debug\Tests.csproj.AssemblyReference.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Tests\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Tests\Tests\obj\Debug\Tests.csproj.CopyComplete
+C:\Users\nikit\OneDrive\Рабочий стол\Tests\Tests\obj\Debug\Tests.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Tests\Tests\obj\Debug\Tests.pdb
+D:\Tests\Tests\bin\Debug\Tests.dll
+D:\Tests\Tests\bin\Debug\Tests.pdb
+D:\Tests\Tests\bin\Debug\IntervalTree.dll
+D:\Tests\Tests\bin\Debug\IntervalTree.pdb
+D:\Tests\Tests\obj\Debug\Tests.csproj.AssemblyReference.cache
+D:\Tests\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+D:\Tests\Tests\obj\Debug\Tests.csproj.CopyComplete
+D:\Tests\Tests\obj\Debug\Tests.dll
+D:\Tests\Tests\obj\Debug\Tests.pdb
+бочий стол\Program\Program\obj\Debug\net6.0\Program.AssemblyInfo.cs
+C:\Users\nikit\OneDrive\Рабочий стол\Program\Program\obj\Debug\net6.0\Program.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Program\Program\obj\Debug\net6.0\Program.csproj.CopyComplete
+C:\Users\nikit\OneDrive\Рабочий стол\Program\Program\obj\Debug\net6.0\Program.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Program\Program\obj\Debug\net6.0\refint\Program.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Program\Program\obj\Debug\net6.0\Program.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\Program\Program\obj\Debug\net6.0\Program.genruntimeconfig.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Program\Program\obj\Debug\net6.0\ref\Program.dll
+D:\Program\Program\bin\Debug\net6.0\Program.exe
+D:\Program\Program\bin\Debug\net6.0\Program.deps.json
+D:\Program\Program\bin\Debug\net6.0\Program.runtimeconfig.json
+D:\Program\Program\bin\Debug\net6.0\Program.dll
+D:\Program\Program\bin\Debug\net6.0\Program.pdb
+D:\Program\Program\bin\Debug\net6.0\IntervalTree.dll
+D:\Program\Program\bin\Debug\net6.0\Tests.dll
+D:\Program\Program\bin\Debug\net6.0\IntervalTree.pdb
+D:\Program\Program\bin\Debug\net6.0\Tests.pdb
+D:\Program\Program\obj\Debug\net6.0\Program.csproj.AssemblyReference.cache
+D:\Program\Program\obj\Debug\net6.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program\Program\obj\Debug\net6.0\Program.AssemblyInfoInputs.cache
+D:\Program\Program\obj\Debug\net6.0\Program.AssemblyInfo.cs
+D:\Program\Program\obj\Debug\net6.0\Program.csproj.CoreCompileInputs.cache
+D:\Program\Program\obj\Debug\net6.0\Program.csproj.CopyComplete
+D:\Program\Program\obj\Debug\net6.0\Program.dll
+D:\Program\Program\obj\Debug\net6.0\refint\Program.dll
+D:\Program\Program\obj\Debug\net6.0\Program.pdb
+D:\Program\Program\obj\Debug\net6.0\Program.genruntimeconfig.cache
+D:\Program\Program\obj\Debug\net6.0\ref\Program.dll
+C:\Users\Nikit\Desktop\Program\Program\bin\Debug\net6.0\Program.exe
+C:\Users\Nikit\Desktop\Program\Program\bin\Debug\net6.0\Program.deps.json
+C:\Users\Nikit\Desktop\Program\Program\bin\Debug\net6.0\Program.runtimeconfig.json
+C:\Users\Nikit\Desktop\Program\Program\bin\Debug\net6.0\Program.dll
+C:\Users\Nikit\Desktop\Program\Program\bin\Debug\net6.0\Program.pdb
+C:\Users\Nikit\Desktop\Program\Program\bin\Debug\net6.0\IntervalTree.dll
+C:\Users\Nikit\Desktop\Program\Program\bin\Debug\net6.0\Tests.dll
+C:\Users\Nikit\Desktop\Program\Program\bin\Debug\net6.0\IntervalTree.pdb
+C:\Users\Nikit\Desktop\Program\Program\bin\Debug\net6.0\Tests.pdb
+C:\Users\Nikit\Desktop\Program\Program\obj\Debug\net6.0\Program.csproj.AssemblyReference.cache
+C:\Users\Nikit\Desktop\Program\Program\obj\Debug\net6.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikit\Desktop\Program\Program\obj\Debug\net6.0\Program.AssemblyInfoInputs.cache
+C:\Users\Nikit\Desktop\Program\Program\obj\Debug\net6.0\Program.AssemblyInfo.cs
+C:\Users\Nikit\Desktop\Program\Program\obj\Debug\net6.0\Program.csproj.CoreCompileInputs.cache
+C:\Users\Nikit\Desktop\Program\Program\obj\Debug\net6.0\Program.csproj.CopyComplete
+C:\Users\Nikit\Desktop\Program\Program\obj\Debug\net6.0\Program.dll
+C:\Users\Nikit\Desktop\Program\Program\obj\Debug\net6.0\refint\Program.dll
+C:\Users\Nikit\Desktop\Program\Program\obj\Debug\net6.0\Program.pdb
+C:\Users\Nikit\Desktop\Program\Program\obj\Debug\net6.0\Program.genruntimeconfig.cache
+C:\Users\Nikit\Desktop\Program\Program\obj\Debug\net6.0\ref\Program.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Program\Program\bin\Debug\net6.0\Program.exe
+C:\Users\nikit\OneDrive\Рабочий стол\Program\Program\bin\Debug\net6.0\Program.deps.json
+C:\Users\nikit\OneDrive\Рабочий стол\Program\Program\bin\Debug\net6.0\Program.runtimeconfig.json
+C:\Users\nikit\OneDrive\Рабочий стол\Program\Program\bin\Debug\net6.0\Program.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Program\Program\bin\Debug\net6.0\Program.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\Program\Program\bin\Debug\net6.0\IntervalTree.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Program\Program\bin\Debug\net6.0\Tests.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Program\Program\bin\Debug\net6.0\IntervalTree.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\Program\Program\bin\Debug\net6.0\Tests.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\Program\Program\obj\Debug\net6.0\Program.csproj.AssemblyReference.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Program\Program\obj\Debug\net6.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\OneDrive\Рабочий стол\Program\Program\obj\Debug\net6.0\Program.AssemblyInfoInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Program\Program\obj\Debug\net6.0\Program.AssemblyInfo.cs
+H:\Program\Program\bin\Debug\net6.0\Program.exe
+H:\Program\Program\bin\Debug\net6.0\Program.deps.json
+H:\Program\Program\bin\Debug\net6.0\Program.runtimeconfig.json
+H:\Program\Program\bin\Debug\net6.0\Program.dll
+H:\Program\Program\bin\Debug\net6.0\Program.pdb
+H:\Program\Program\bin\Debug\net6.0\IntervalTree.dll
+H:\Program\Program\bin\Debug\net6.0\Tests.dll
+H:\Program\Program\bin\Debug\net6.0\IntervalTree.pdb
+H:\Program\Program\bin\Debug\net6.0\Tests.pdb
+H:\Program\Program\obj\Debug\net6.0\Program.csproj.AssemblyReference.cache
+H:\Program\Program\obj\Debug\net6.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+H:\Program\Program\obj\Debug\net6.0\Program.AssemblyInfoInputs.cache
+H:\Program\Program\obj\Debug\net6.0\Program.AssemblyInfo.cs
+H:\Program\Program\obj\Debug\net6.0\Program.csproj.CoreCompileInputs.cache
+H:\Program\Program\obj\Debug\net6.0\Program.csproj.CopyComplete
+H:\Program\Program\obj\Debug\net6.0\Program.dll
+H:\Program\Program\obj\Debug\net6.0\refint\Program.dll
+H:\Program\Program\obj\Debug\net6.0\Program.pdb
+H:\Program\Program\obj\Debug\net6.0\Program.genruntimeconfig.cache
+H:\Program\Program\obj\Debug\net6.0\ref\Program.dll
